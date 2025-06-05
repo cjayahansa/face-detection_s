@@ -56,7 +56,7 @@ Haar Cascade Classifier: A fast object detection method trained to recognize hum
 
 # 📹 Demo
 # 🎥 Demo video: 
-![Face Detection Output](ScreenRecording2025-06-05115403.mp4)
+![ScreenRecording2025-06-05115403.mp4](https://github.com/cjayahansa/face-detection_s/blob/main/Screen%20Recording%202025-06-05%20115403.mp4)
 
 ## 🙋‍♂️ Author
 Chamindu Jayahansa
