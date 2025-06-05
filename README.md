@@ -55,7 +55,8 @@ The script loads an image, detects faces, and displays/saves the output image.
 Haar Cascade Classifier: A fast object detection method trained to recognize human faces.
 
 # 📹 Demo
-# 🎥 Demo video: Screen Recording 2025-06-05 115403.mp4
+# 🎥 Demo video: 
+[Face Detection Output](Screen Recording 2025-06-05 115403.mp4)
 
 ## 🙋‍♂️ Author
 Chamindu Jayahansa
